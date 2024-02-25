@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1708879187000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_hour.geojson",
+        "title": "USGS Magnitude 2.5+ Earthquakes, Past Hour",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 3
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "south of Panama",
+                "time": 1708876443075,
+                "updated": 1708878177040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m1im",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000m1im.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "7000m1im",
+                "ids": ",us7000m1im,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 40,
+                "dmin": 4.609,
+                "rms": 1.08,
+                "gap": 158,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - south of Panama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.76,
+                    4.1551,
+                    10
+                ]
+            },
+            "id": "us7000m1im"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.11,
+                "place": "14 km NW of Alder Springs, CA",
+                "time": 1708876185260,
+                "updated": 1708877965040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc74007671",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc74007671.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 149,
+                "net": "nc",
+                "code": "74007671",
+                "ids": ",nc74007671,us7000m1il,",
+                "sources": ",nc,us,",
+                "types": ",focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 50,
+                "dmin": 0.2255,
+                "rms": 0.38,
+                "gap": 22,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 3.1 - 14 km NW of Alder Springs, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8479996,
+                    39.7369995,
+                    0.62
+                ]
+            },
+            "id": "nc74007671"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.92,
+                "place": "14 km SSE of Fern Forest, Hawaii",
+                "time": 1708875794190,
+                "updated": 1708877525040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74121076",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74121076.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 131,
+                "net": "hv",
+                "code": "74121076",
+                "ids": ",us7000m1ig,hv74121076,",
+                "sources": ",us,hv,",
+                "types": ",origin,phase-data,",
+                "nst": 54,
+                "dmin": 0.04707,
+                "rms": 0.209999993,
+                "gap": 132,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 2.9 - 14 km SSE of Fern Forest, Hawaii"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.108337402344,
+                    19.3371658325195,
+                    4.73999977111816
+                ]
+            },
+            "id": "hv74121076"
+        }
+    ],
+    "bbox": [
+        -155.10833740234,
+        4.1551,
+        0.62,
+        -82.76,
+        39.7369995,
+        10
+    ]
+}

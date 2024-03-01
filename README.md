@@ -82,7 +82,7 @@ potentially leading to better preparedness among the general population.
 
 ###### In conclusion, the code not only serves as a practical tool for visualizing earthquake data but also as a foundation for deeper analysis and understanding of seismic activities. It can foster informed discussions, guide research directions, and enhance disaster readiness strategies.
 
-## Also there's the code thats will create a map visualization of fires around the world (in the data file you will find the CSV file that was the source of the mapping):
+## Also you can find there's the code thats will create a map visualization of fires around the world (in the data file you will find the CSV file that was the source of the mapping):
 Marking their locations with dots sized by their brightness. Adjust the marker size scaling and colors as needed to best represent the data visually.
 <img width="400" alt="World_fire_visual" src="https://github.com/Masanbat12/Global-Earthquakes-Visualization/assets/93978448/d84185dc-0afd-43a3-a7de-8f1ea210af79">
 
